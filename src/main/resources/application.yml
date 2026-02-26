@@ -1,0 +1,6 @@
+spring:
+  ai:
+    mcp:
+      server:
+        name: markdown-to-confluence-mcp-server
+        version: 0.0.1
